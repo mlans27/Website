@@ -1,0 +1,36 @@
+body {
+    background-image: url('Sunset_rocket.png');
+    background-size: cover;
+    margin: 0;
+    color: #fff;
+    font-family: 'Helvetica Neue', sans-serif;
+  }
+  
+  nav {
+    text-align: center;
+  }
+  
+  nav ul {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin: 0;
+  }
+  
+  nav a {
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 14px 8px;
+    text-decoration: none;
+    color: #fff;
+  }
+
+  h1 {
+      text-align: center;
+  }
