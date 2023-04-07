@@ -2,7 +2,7 @@ body {
     background-image: url('Sunset_rocket.png');
     background-size: cover;
     margin: 0;
-    color: #36ebf8;
+    color: #fff;
     font-family: 'Helvetica Neue', sans-serif;
   }
   
@@ -28,7 +28,7 @@ body {
     text-align: center;
     padding: 14px 8px;
     text-decoration: none;
-    color: #36ebf8;
+    color: #fff;
   }
 
   h1 {
