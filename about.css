@@ -26,6 +26,7 @@ nav {
   
   nav li {
     display: inline-block;
+    font-weight: bold;
     margin: 0;
     
   }
